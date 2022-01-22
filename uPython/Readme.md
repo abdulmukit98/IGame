@@ -8,4 +8,5 @@ led.value(0 / 1)
 led.on()
 led.off()
 
+led = Pin(2, Pin.OUT, value=1)
 ```
