@@ -13,7 +13,7 @@ sudo apt-get install python-pygame
                 bird_movement = 0                   <br>  
                 bird_movement -= 6                  <br>
 
-### uPython
+## uPython
 ![esp8266 pin diagram](https://github.com/abdulmukit98/peripherals/blob/main/images/NodeMCUv3.0-pinout.jpg)
 
 
