@@ -1,7 +1,7 @@
 Eye-of-Gnome
 
 
-``
+```
 sudo apt-get install python-pygame
 ```
 ### mouse pressed
