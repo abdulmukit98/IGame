@@ -1,7 +1,9 @@
 Eye-of-Gnome
 
-sudo apt-get install python-pygame
 
+``
+sudo apt-get install python-pygame
+```
 ### mouse pressed
 
         if event.type == pygame.MOUSEBUTTONDOWN:    <br>
