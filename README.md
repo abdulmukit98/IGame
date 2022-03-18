@@ -1,4 +1,4 @@
-Eye of Gnome
+Eye-of-Gnome
 
 sudo apt-get install python-pygame
 
